@@ -996,7 +996,7 @@ msgstr "Eigene"
 #. A setting that *you* choose and is not a default. 
 msgctxt "settingsvalue"
 msgid "Custom"
-msgstr "Benutzerddefiniert"
+msgstr "Benutzerdefiniert"
 
 msgctxt "settings"
 msgid "Custom %s"
